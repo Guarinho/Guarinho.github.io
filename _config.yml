@@ -1,4 +1,4 @@
-layout: sidebar
+layout: stacked
 style: dark
 
 plugins:
@@ -10,7 +10,7 @@ permalink: /:year/:month/:day/:title/
 
 defaults:
   -
-    scope:  Electrical engineer
+    scope:  
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
@@ -28,14 +28,16 @@ projects:
     projects:
     # - repo-name
 
-  social_media:
+social_media:
+  linkedin: Guarinho
+  website: http://guarinho.ml
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-    linkedin: Guarinho
+    
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -43,24 +45,20 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-   website: http://guarinho.ml
+    
   # youtube: your_username
 
 topics:
   - name: Machine Learning
     web_url: https://github.com/topics/machine-learning
-    image_url: "https://rockcontent.com/wp-content/uploads/2018/01/O-que-%C3%A9-machine-learning.png"
-
+    image_url: "https://tecnoblog.net/wp-content/uploads/2018/06/digital-brain.jpg"
+    
   - name: 3D Models
     web_url: https://github.com/topics/3d
-    image_url: "https://i.pinimg.com/originals/0f/d4/19/0fd4195dc11445a476a93d27c9a2091e.jpg"
+    image_url: "https://i.pinimg.com/originals/0f/d4/19/0fd4195dc11445a476a93d27c9a2091e.jpg"  
     
   - name: Python 
     web_url: https://github.com/topics/python
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
+    image_url: "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
 
-<<<<<<< HEAD
-theme: jekyll-theme-hacker
-=======
-theme: jekyll-theme-slate
->>>>>>> 019304c2835f42dd2f21d059d9759e3382a96188
+
