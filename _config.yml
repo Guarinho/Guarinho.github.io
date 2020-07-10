@@ -58,7 +58,7 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
 <<<<<<< HEAD
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
 =======
 theme: jekyll-theme-slate
 >>>>>>> 019304c2835f42dd2f21d059d9759e3382a96188
