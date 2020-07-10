@@ -10,7 +10,7 @@ permalink: /:year/:month/:day/:title/
 
 defaults:
   -
-    scope:
+    scope:  Electrical engineer
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
@@ -28,7 +28,7 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+  social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
