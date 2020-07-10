@@ -48,14 +48,16 @@ projects:
 
 topics:
   - name: Machine Learning
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+    web_url: https://github.com/topics/machine-learning
+    image_url: "https://rockcontent.com/wp-content/uploads/2018/01/O-que-%C3%A9-machine-learning.png"
 
-  - name: Web design
-
-  - name: Deep Learning
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: 3D Models
+    web_url: https://github.com/topics/3d
+    image_url: "https://i.pinimg.com/originals/0f/d4/19/0fd4195dc11445a476a93d27c9a2091e.jpg"
+    
+  - name: Python 
+    web_url: https://github.com/topics/python
+    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 
 <<<<<<< HEAD
 theme: jekyll-theme-hacker
